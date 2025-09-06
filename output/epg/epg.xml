@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250905221746 +0800">
+<tv date="20250906101951 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -1698,123 +1698,6 @@
 	<programme channel="风云剧场" start="20250906231700 +0800" stop="20250906235900 +0800">
 		<title lang="zh">浮华饭店1(7)</title>
 	</programme>
-	<channel id="世界地理">
-		<display-name lang="zh">世界地理</display-name>
-	</channel>
-	<programme channel="世界地理" start="20250906003600 +0800" stop="20250906010100 +0800">
-		<title lang="zh">活力·源</title>
-	</programme>
-	<programme channel="世界地理" start="20250906010100 +0800" stop="20250906070000 +0800">
-		<title lang="zh">活力·源</title>
-	</programme>
-	<programme channel="世界地理" start="20250906070000 +0800" stop="20250906074200 +0800">
-		<title lang="zh">远方的家</title>
-	</programme>
-	<programme channel="世界地理" start="20250906074200 +0800" stop="20250906081200 +0800">
-		<title lang="zh">味道</title>
-	</programme>
-	<programme channel="世界地理" start="20250906081200 +0800" stop="20250906084200 +0800">
-		<title lang="zh">味道</title>
-	</programme>
-	<programme channel="世界地理" start="20250906084200 +0800" stop="20250906084700 +0800">
-		<title lang="zh">2025世界地理频道精彩多看点(36)</title>
-	</programme>
-	<programme channel="世界地理" start="20250906084700 +0800" stop="20250906091200 +0800">
-		<title lang="zh">活力·源</title>
-	</programme>
-	<programme channel="世界地理" start="20250906091200 +0800" stop="20250906093700 +0800">
-		<title lang="zh">活力·源</title>
-	</programme>
-	<programme channel="世界地理" start="20250906093700 +0800" stop="20250906095900 +0800">
-		<title lang="zh">三兄弟的动物园日常(11)</title>
-	</programme>
-	<programme channel="世界地理" start="20250906095900 +0800" stop="20250906102100 +0800">
-		<title lang="zh">三兄弟的动物园日常(12)</title>
-	</programme>
-	<programme channel="世界地理" start="20250906102100 +0800" stop="20250906112100 +0800">
-		<title lang="zh">科学动物园</title>
-	</programme>
-	<programme channel="世界地理" start="20250906112100 +0800" stop="20250906112600 +0800">
-		<title lang="zh">2025世界地理频道精彩多看点(36)</title>
-	</programme>
-	<programme channel="世界地理" start="20250906112600 +0800" stop="20250906120700 +0800">
-		<title lang="zh">跟着书本去旅行</title>
-	</programme>
-	<programme channel="世界地理" start="20250906120700 +0800" stop="20250906130700 +0800">
-		<title lang="zh">味道</title>
-	</programme>
-	<programme channel="世界地理" start="20250906130700 +0800" stop="20250906131200 +0800">
-		<title lang="zh">2025世界地理频道精彩多看点(36)</title>
-	</programme>
-	<programme channel="世界地理" start="20250906131200 +0800" stop="20250906140200 +0800">
-		<title lang="zh">活力·源</title>
-	</programme>
-	<programme channel="世界地理" start="20250906140200 +0800" stop="20250906140700 +0800">
-		<title lang="zh">2025世界地理频道精彩多看点(36)</title>
-	</programme>
-	<programme channel="世界地理" start="20250906140700 +0800" stop="20250906144900 +0800">
-		<title lang="zh">远方的家</title>
-	</programme>
-	<programme channel="世界地理" start="20250906144900 +0800" stop="20250906151100 +0800">
-		<title lang="zh">三兄弟的动物园日常(13)</title>
-	</programme>
-	<programme channel="世界地理" start="20250906151100 +0800" stop="20250906153300 +0800">
-		<title lang="zh">三兄弟的动物园日常(14)</title>
-	</programme>
-	<programme channel="世界地理" start="20250906153300 +0800" stop="20250906153800 +0800">
-		<title lang="zh">2025世界地理频道精彩多看点(36)</title>
-	</programme>
-	<programme channel="世界地理" start="20250906153800 +0800" stop="20250906160300 +0800">
-		<title lang="zh">活力·源</title>
-	</programme>
-	<programme channel="世界地理" start="20250906160300 +0800" stop="20250906162800 +0800">
-		<title lang="zh">活力·源</title>
-	</programme>
-	<programme channel="世界地理" start="20250906162800 +0800" stop="20250906172800 +0800">
-		<title lang="zh">味道</title>
-	</programme>
-	<programme channel="世界地理" start="20250906172800 +0800" stop="20250906182800 +0800">
-		<title lang="zh">科学动物园</title>
-	</programme>
-	<programme channel="世界地理" start="20250906182800 +0800" stop="20250906190800 +0800">
-		<title lang="zh">跟着书本去旅行</title>
-	</programme>
-	<programme channel="世界地理" start="20250906190800 +0800" stop="20250906191300 +0800">
-		<title lang="zh">2025世界地理频道精彩多看点(36)</title>
-	</programme>
-	<programme channel="世界地理" start="20250906191300 +0800" stop="20250906200000 +0800">
-		<title lang="zh">远方的家</title>
-	</programme>
-	<programme channel="世界地理" start="20250906200000 +0800" stop="20250906202200 +0800">
-		<title lang="zh">三兄弟的动物园日常(15)</title>
-	</programme>
-	<programme channel="世界地理" start="20250906202200 +0800" stop="20250906204700 +0800">
-		<title lang="zh">三兄弟的动物园日常(16)</title>
-	</programme>
-	<programme channel="世界地理" start="20250906204700 +0800" stop="20250906205200 +0800">
-		<title lang="zh">中国微名片·世界遗产(12)</title>
-	</programme>
-	<programme channel="世界地理" start="20250906205200 +0800" stop="20250906210000 +0800">
-		<title lang="zh">2025世界地理频道精彩多看点(36)</title>
-	</programme>
-	<programme channel="世界地理" start="20250906210000 +0800" stop="20250906215000 +0800">
-		<title lang="zh">活力·源</title>
-	</programme>
-	<programme channel="世界地理" start="20250906215000 +0800" stop="20250906224100 +0800">
-		<title lang="zh">特别呈现</title>
-	</programme>
-	<programme channel="世界地理" start="20250906224100 +0800" stop="20250906230600 +0800">
-		<title lang="zh">国宝发现</title>
-	</programme>
-	<programme channel="世界地理" start="20250906230600 +0800" stop="20250906233200 +0800">
-		<title lang="zh">国宝发现</title>
-	</programme>
-	<programme channel="世界地理" start="20250906233200 +0800" stop="20250906233700 +0800">
-		<title lang="zh">2025世界地理频道精彩多看点(36)</title>
-	</programme>
-	<programme channel="世界地理" start="20250906233700 +0800" stop="20250906235900 +0800">
-		<title lang="zh">科学动物园</title>
-	</programme>
 	<channel id="CETV-1">
 		<display-name lang="zh">CETV-1</display-name>
 	</channel>
@@ -2373,6 +2256,123 @@
 	<programme channel="CETV-4" start="20250906234000 +0800" stop="20250906235900 +0800">
 		<title lang="zh">发现中国</title>
 	</programme>
+	<channel id="世界地理">
+		<display-name lang="zh">世界地理</display-name>
+	</channel>
+	<programme channel="世界地理" start="20250906003600 +0800" stop="20250906010100 +0800">
+		<title lang="zh">活力·源</title>
+	</programme>
+	<programme channel="世界地理" start="20250906010100 +0800" stop="20250906070000 +0800">
+		<title lang="zh">活力·源</title>
+	</programme>
+	<programme channel="世界地理" start="20250906070000 +0800" stop="20250906074200 +0800">
+		<title lang="zh">远方的家</title>
+	</programme>
+	<programme channel="世界地理" start="20250906074200 +0800" stop="20250906081200 +0800">
+		<title lang="zh">味道</title>
+	</programme>
+	<programme channel="世界地理" start="20250906081200 +0800" stop="20250906084200 +0800">
+		<title lang="zh">味道</title>
+	</programme>
+	<programme channel="世界地理" start="20250906084200 +0800" stop="20250906084700 +0800">
+		<title lang="zh">2025世界地理频道精彩多看点(36)</title>
+	</programme>
+	<programme channel="世界地理" start="20250906084700 +0800" stop="20250906091200 +0800">
+		<title lang="zh">活力·源</title>
+	</programme>
+	<programme channel="世界地理" start="20250906091200 +0800" stop="20250906093700 +0800">
+		<title lang="zh">活力·源</title>
+	</programme>
+	<programme channel="世界地理" start="20250906093700 +0800" stop="20250906095900 +0800">
+		<title lang="zh">三兄弟的动物园日常(11)</title>
+	</programme>
+	<programme channel="世界地理" start="20250906095900 +0800" stop="20250906102100 +0800">
+		<title lang="zh">三兄弟的动物园日常(12)</title>
+	</programme>
+	<programme channel="世界地理" start="20250906102100 +0800" stop="20250906112100 +0800">
+		<title lang="zh">科学动物园</title>
+	</programme>
+	<programme channel="世界地理" start="20250906112100 +0800" stop="20250906112600 +0800">
+		<title lang="zh">2025世界地理频道精彩多看点(36)</title>
+	</programme>
+	<programme channel="世界地理" start="20250906112600 +0800" stop="20250906120700 +0800">
+		<title lang="zh">跟着书本去旅行</title>
+	</programme>
+	<programme channel="世界地理" start="20250906120700 +0800" stop="20250906130700 +0800">
+		<title lang="zh">味道</title>
+	</programme>
+	<programme channel="世界地理" start="20250906130700 +0800" stop="20250906131200 +0800">
+		<title lang="zh">2025世界地理频道精彩多看点(36)</title>
+	</programme>
+	<programme channel="世界地理" start="20250906131200 +0800" stop="20250906140200 +0800">
+		<title lang="zh">活力·源</title>
+	</programme>
+	<programme channel="世界地理" start="20250906140200 +0800" stop="20250906140700 +0800">
+		<title lang="zh">2025世界地理频道精彩多看点(36)</title>
+	</programme>
+	<programme channel="世界地理" start="20250906140700 +0800" stop="20250906144900 +0800">
+		<title lang="zh">远方的家</title>
+	</programme>
+	<programme channel="世界地理" start="20250906144900 +0800" stop="20250906151100 +0800">
+		<title lang="zh">三兄弟的动物园日常(13)</title>
+	</programme>
+	<programme channel="世界地理" start="20250906151100 +0800" stop="20250906153300 +0800">
+		<title lang="zh">三兄弟的动物园日常(14)</title>
+	</programme>
+	<programme channel="世界地理" start="20250906153300 +0800" stop="20250906153800 +0800">
+		<title lang="zh">2025世界地理频道精彩多看点(36)</title>
+	</programme>
+	<programme channel="世界地理" start="20250906153800 +0800" stop="20250906160300 +0800">
+		<title lang="zh">活力·源</title>
+	</programme>
+	<programme channel="世界地理" start="20250906160300 +0800" stop="20250906162800 +0800">
+		<title lang="zh">活力·源</title>
+	</programme>
+	<programme channel="世界地理" start="20250906162800 +0800" stop="20250906172800 +0800">
+		<title lang="zh">味道</title>
+	</programme>
+	<programme channel="世界地理" start="20250906172800 +0800" stop="20250906182800 +0800">
+		<title lang="zh">科学动物园</title>
+	</programme>
+	<programme channel="世界地理" start="20250906182800 +0800" stop="20250906190800 +0800">
+		<title lang="zh">跟着书本去旅行</title>
+	</programme>
+	<programme channel="世界地理" start="20250906190800 +0800" stop="20250906191300 +0800">
+		<title lang="zh">2025世界地理频道精彩多看点(36)</title>
+	</programme>
+	<programme channel="世界地理" start="20250906191300 +0800" stop="20250906200000 +0800">
+		<title lang="zh">远方的家</title>
+	</programme>
+	<programme channel="世界地理" start="20250906200000 +0800" stop="20250906202200 +0800">
+		<title lang="zh">三兄弟的动物园日常(15)</title>
+	</programme>
+	<programme channel="世界地理" start="20250906202200 +0800" stop="20250906204700 +0800">
+		<title lang="zh">三兄弟的动物园日常(16)</title>
+	</programme>
+	<programme channel="世界地理" start="20250906204700 +0800" stop="20250906205200 +0800">
+		<title lang="zh">中国微名片·世界遗产(12)</title>
+	</programme>
+	<programme channel="世界地理" start="20250906205200 +0800" stop="20250906210000 +0800">
+		<title lang="zh">2025世界地理频道精彩多看点(36)</title>
+	</programme>
+	<programme channel="世界地理" start="20250906210000 +0800" stop="20250906215000 +0800">
+		<title lang="zh">活力·源</title>
+	</programme>
+	<programme channel="世界地理" start="20250906215000 +0800" stop="20250906224100 +0800">
+		<title lang="zh">特别呈现</title>
+	</programme>
+	<programme channel="世界地理" start="20250906224100 +0800" stop="20250906230600 +0800">
+		<title lang="zh">国宝发现</title>
+	</programme>
+	<programme channel="世界地理" start="20250906230600 +0800" stop="20250906233200 +0800">
+		<title lang="zh">国宝发现</title>
+	</programme>
+	<programme channel="世界地理" start="20250906233200 +0800" stop="20250906233700 +0800">
+		<title lang="zh">2025世界地理频道精彩多看点(36)</title>
+	</programme>
+	<programme channel="世界地理" start="20250906233700 +0800" stop="20250906235900 +0800">
+		<title lang="zh">科学动物园</title>
+	</programme>
 	<channel id="兵器科技">
 		<display-name lang="zh">兵器科技</display-name>
 	</channel>
@@ -2549,6 +2549,81 @@
 	</programme>
 	<programme channel="央视台球" start="20250906223000 +0800" stop="20250906235900 +0800">
 		<title lang="zh">赛场直击-2022年世界斯诺克锦标赛半决赛第一阶段1 特鲁姆普-马克·威廉姆斯</title>
+	</programme>
+	<channel id="文化精品">
+		<display-name lang="zh">文化精品</display-name>
+	</channel>
+	<programme channel="文化精品" start="20250906001800 +0800" stop="20250906005800 +0800">
+		<title lang="zh">健康之路-2024-126</title>
+	</programme>
+	<programme channel="文化精品" start="20250906005800 +0800" stop="20250906080200 +0800">
+		<title lang="zh">百家讲坛-2023-23</title>
+	</programme>
+	<programme channel="文化精品" start="20250906080200 +0800" stop="20250906083200 +0800">
+		<title lang="zh">味道-2024-215</title>
+	</programme>
+	<programme channel="文化精品" start="20250906083200 +0800" stop="20250906091200 +0800">
+		<title lang="zh">健康之路-2024-126</title>
+	</programme>
+	<programme channel="文化精品" start="20250906091200 +0800" stop="20250906092800 +0800">
+		<title lang="zh">9视频2025-62</title>
+	</programme>
+	<programme channel="文化精品" start="20250906092800 +0800" stop="20250906101800 +0800">
+		<title lang="zh">我的艺术清单-2022-37</title>
+	</programme>
+	<programme channel="文化精品" start="20250906101800 +0800" stop="20250906104800 +0800">
+		<title lang="zh">2024农耕探文明-10</title>
+	</programme>
+	<programme channel="文化精品" start="20250906104800 +0800" stop="20250906113100 +0800">
+		<title lang="zh">探索·发现-2025-155</title>
+	</programme>
+	<programme channel="文化精品" start="20250906113100 +0800" stop="20250906121100 +0800">
+		<title lang="zh">百家讲坛-2023-23</title>
+	</programme>
+	<programme channel="文化精品" start="20250906121100 +0800" stop="20250906134500 +0800">
+		<title lang="zh">三餐四季(第二季)-6(江西篇)</title>
+	</programme>
+	<programme channel="文化精品" start="20250906134500 +0800" stop="20250906143500 +0800">
+		<title lang="zh">我的艺术清单-2022-37</title>
+	</programme>
+	<programme channel="文化精品" start="20250906143500 +0800" stop="20250906150500 +0800">
+		<title lang="zh">2024农耕探文明-10</title>
+	</programme>
+	<programme channel="文化精品" start="20250906150500 +0800" stop="20250906154800 +0800">
+		<title lang="zh">探索·发现-2025-155</title>
+	</programme>
+	<programme channel="文化精品" start="20250906154800 +0800" stop="20250906162800 +0800">
+		<title lang="zh">百家讲坛-2023-23</title>
+	</programme>
+	<programme channel="文化精品" start="20250906162800 +0800" stop="20250906180300 +0800">
+		<title lang="zh">三餐四季(第二季)-6(江西篇)</title>
+	</programme>
+	<programme channel="文化精品" start="20250906180300 +0800" stop="20250906183300 +0800">
+		<title lang="zh">味道-2024-212</title>
+	</programme>
+	<programme channel="文化精品" start="20250906183300 +0800" stop="20250906191300 +0800">
+		<title lang="zh">健康之路-2024-155</title>
+	</programme>
+	<programme channel="文化精品" start="20250906191300 +0800" stop="20250906201500 +0800">
+		<title lang="zh">科学动物园-2024-1</title>
+	</programme>
+	<programme channel="文化精品" start="20250906201500 +0800" stop="20250906203000 +0800">
+		<title lang="zh">9视频2025-63</title>
+	</programme>
+	<programme channel="文化精品" start="20250906203000 +0800" stop="20250906212800 +0800">
+		<title lang="zh">世界地理50’-太阳系 第一集 火山世界</title>
+	</programme>
+	<programme channel="文化精品" start="20250906212800 +0800" stop="20250906222600 +0800">
+		<title lang="zh">世界地理50’-太阳系 第二集 黑暗世界</title>
+	</programme>
+	<programme channel="文化精品" start="20250906222600 +0800" stop="20250906232400 +0800">
+		<title lang="zh">世界地理50’-太阳系 第三集 风暴世界</title>
+	</programme>
+	<programme channel="文化精品" start="20250906232400 +0800" stop="20250906235700 +0800">
+		<title lang="zh">纪录片瞬间中国-农耕探文明21</title>
+	</programme>
+	<programme channel="文化精品" start="20250906235700 +0800" stop="20250906235900 +0800">
+		<title lang="zh">百家讲坛-2023-21</title>
 	</programme>
 	<channel id="女性时尚">
 		<display-name lang="zh">女性时尚</display-name>
